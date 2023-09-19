@@ -10,7 +10,8 @@ Hello, fellow Earthlings! I'm Julie, known as [@jhavlick](https://github.com/jha
 
 ## Join Me on My Rocket Launch! 🚀
 
-🚁 Explore the Cosmos: Dive into my coding universe by checking out my first project [libft](https://github.com/jhavlick/libft). It's not ready yet, but when it is, it will be a masterpiece. I promise
+🚁 Explore the Cosmos: Dive into my coding universe by checking out my first project [libft](https://github.com/jhavlick/libft). It's not ready yet, but when it is, it will be a masterpiece - I promise.
+
 You'll find here a projects that are designed to be both fun and informative for complete beginners.
 
 🛸 Let's learn, code, and explore the galaxies of programming together! Grab your spacesuit, because we're about to lift off on this amazing journey! 🌌🚀🌠
