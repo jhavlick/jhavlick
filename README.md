@@ -14,6 +14,6 @@ Hello, fellow Earthlings! I'm Julie, known as [@jhavlick](https://github.com/jha
 
 You'll find here a projects that are designed to be both fun and informative for complete beginners.
 
-🛸 Let's learn, code, and explore the galaxies of programming together! Grab your spacesuit, because we're about to lift off on this amazing journey! 🌌🚀🌠
+🛸 Let's learn, code, and explore the galaxies of programming together! Grab your spacesuit, come with me on this amazing journey! 🌌🚀🌠
 
 3... 2... 1... Liftoff!
